@@ -1,0 +1,7 @@
+{
+ "version": "1.6.0",
+ "notes": "เวอร์ชันแรกที่มีระบบอัปเดตอัตโนมัติ\nครอบตัดรูป / ปรับแสง ความคมชัด ขาวดำ\nขยาย-ย่อรูป และชิดขอบ\nปุ่มปริ้นเลย",
+ "exe": "https://raw.githubusercontent.com/Teeraprat/jadroop-update/main/versions/JadRoop-1.6.0.exe",
+ "sha256": "793ca73425bdab530e9a87617d57a4ec27b5ad4a06f94e1d42350cfcecc2f025",
+ "size": 48090652
+}
